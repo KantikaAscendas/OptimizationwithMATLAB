@@ -1,7 +1,7 @@
 
 <a id="T_605e"></a>
 
-![image_0.png](./image_0.png)
+![image_0.png](./README_media/image_0.png)
 
 <a id="TMP_3c54"></a>
 
@@ -50,7 +50,7 @@
 # User Story 
 |||
 | :-- | :-- |
-| [Green Tiger Mobility Innovates Battery Management System](https://www.mathworks.com/company/user_stories/green-tiger-mobility-innovates-battery-management-system.html) <br> **Challenge** <br> \- Limited expertise in developing high\-quality e\-mobility products <br> \- Difficulty in optimizing battery management systems <br> **Solution** <br> \- Optimize battery pack performance with Live Task <br> \- Utilize MATLAB including Live Script to document the analysis <br> **Result** <br> Successful completion of the BMS project with an impressive mileage of 70 kilometers (43.5 miles) on a 1.8 kWh battery  | ![image_1.png](./image_1.png)   |
+| [Green Tiger Mobility Innovates Battery Management System](https://www.mathworks.com/company/user_stories/green-tiger-mobility-innovates-battery-management-system.html) <br> **Challenge** <br> \- Limited expertise in developing high\-quality e\-mobility products <br> \- Difficulty in optimizing battery management systems <br> **Solution** <br> \- Optimize battery pack performance with Live Task <br> \- Utilize MATLAB including Live Script to document the analysis <br> **Result** <br> Successful completion of the BMS project with an impressive mileage of 70 kilometers (43.5 miles) on a 1.8 kWh battery  | ![image_1.png](./README_media/image_1.png)   |
 
 <a id="H_4b51"></a>
 
